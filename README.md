@@ -54,4 +54,4 @@ School of Electrical and Computer Engineering of Applied Studies (VIŠER), Belgr
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/aleksa-lili%C4%87/)
+[LinkedIn](www.linkedin.com/in/lilic195)
