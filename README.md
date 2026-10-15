@@ -54,4 +54,4 @@ School of Electrical and Computer Engineering of Applied Studies (VIŠER), Belgr
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/lilic195)
+[LinkedIn](https://www.linkedin.com/in/lilic195)
