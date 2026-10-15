@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 I’m a software engineer based in Belgrade, Serbia, building software professionally since July 2017.
 
-My work spans product development, backend systems, data pipelines, integrations, and cloud infrastructure—from understanding customer problems to implementation, rollout, and verification.
+My work spans product development, backend systems, data pipelines, integrations, and cloud infrastructure-from understanding customer problems to implementation, rollout, and verification.
 
 ## Experience
 
-At ClickGUARD, I work primarily with Node.js and TypeScript across backend services, asynchronous processing, analytics, billing, integrations, and cloud infrastructure. My role combines software engineering with product engineering: investigating customer needs, evaluating tradeoffs, and delivering practical solutions.
+At ClickGUARD, I work primarily with Node.js and TypeScript across backend services, asynchronous processing, analytics, billing, integrations, and cloud infrastructure. My role combines software engineering with product engineering: investigating customer needs, evaluating trade-offs, and delivering practical solutions.
 
 Previously, I built backend applications with Java and Spring Boot.
 
